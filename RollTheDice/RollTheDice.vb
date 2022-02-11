@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Roll The Dice
-'url
+'https://github.com/MEBreves/RollTheDice
 
 Option Strict On
 Option Explicit On
